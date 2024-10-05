@@ -1,0 +1,20 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/diamond_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 123456
+      },
+      "model": "item/golmon_sword"
+    },
+    {
+      "predicate": {
+      "custom_model_data": 123457
+    },
+    "model": "item/mon_item_2"
+    }
+  ]
+}

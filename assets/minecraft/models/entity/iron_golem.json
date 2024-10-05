@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:entity/iron_golem",
+  "textures": {
+    "texture": "entity/rocky"
+  }
+}
