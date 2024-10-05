@@ -21,8 +21,8 @@
       {
         "type": "bitmap",
         "file": "icons:chat/coin_4_1.png",
-        "ascent": 9,
-        "height": 9,
+        "ascent": 16,
+        "height": 16,
         "chars": [
           "\uDB81\uDC98"
         ]
