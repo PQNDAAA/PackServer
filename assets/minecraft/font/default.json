@@ -11,7 +11,7 @@
         },
       {
         "type": "bitmap",
-        "file": "icons:chat/coin_2.png",
+        "file": "icons:chat/coin_4.png",
         "ascent": 13,
         "height": 13,
         "chars": [
@@ -21,8 +21,8 @@
       {
         "type": "bitmap",
         "file": "icons:chat/coin_4_1.png",
-        "ascent": 16,
-        "height": 16,
+        "ascent": 13,
+        "height": 13,
         "chars": [
           "\uDB81\uDC98"
         ]
