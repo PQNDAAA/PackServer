@@ -29,7 +29,7 @@
       },
       {
         "type": "bitmap",
-        "file": "icons:chat/icon_miner_00",
+        "file": "icons:chat/icon_miner_00.png",
         "ascent": 64,
         "height": 64,
         "chars": [
