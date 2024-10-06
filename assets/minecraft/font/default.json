@@ -29,6 +29,15 @@
       },
       {
         "type": "bitmap",
+        "file": "icons:chat/icon_miner_00",
+        "ascent": 64,
+        "height": 64,
+        "chars": [
+          "\uDB81\uDC96"
+        ]
+      },
+      {
+        "type": "bitmap",
         "file": "icons:chat/enchantbottle.png",
         "ascent": 9,
         "height": 9,
