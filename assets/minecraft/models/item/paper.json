@@ -57,6 +57,12 @@
         "custom_model_data": 9
       },
       "model": "item/icon_miner_slot_9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 0
+      },
+      "model": "item/reserved_item"
     }
   ]
 }
