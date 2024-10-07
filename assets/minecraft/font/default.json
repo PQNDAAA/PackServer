@@ -103,16 +103,7 @@
       {
         "type": "bitmap",
         "file": "space:font/space_split.png",
-        "ascent": 1000,
-        "height": 0,
-        "chars": [
-          "\uF780"
-        ]
-      },
-      {
-        "type": "bitmap",
-        "file": "space:font/space_split.png",
-        "ascent": -32768,
+        "ascent": -327,
         "height": -3,
         "chars": [
           "\uF801"
