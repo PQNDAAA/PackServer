@@ -57,7 +57,7 @@
       {
         "type": "bitmap",
         "file": "icons:chat/container_27.png",
-        "ascent": 19,
+        "ascent": 0,
         "height": 256,
         "chars": [
           "\uDB81\uDC95"
