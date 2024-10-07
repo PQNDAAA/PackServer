@@ -31,7 +31,7 @@
         "type": "bitmap",
         "file": "icons:chat/icon_hunter_00.png",
         "ascent": 0,
-        "height": 64,
+        "height": 54,
         "chars": [
           "\uDB81\uDC96"
         ]
@@ -40,7 +40,7 @@
         "type": "bitmap",
         "file": "icons:chat/icon_lumberjack_00.png",
         "ascent": 0,
-        "height": 64,
+        "height": 54,
         "chars": [
           "\uDB81\uDC94"
         ]
