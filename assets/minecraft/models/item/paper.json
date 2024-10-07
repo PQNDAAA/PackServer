@@ -6,12 +6,6 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 10
-      },
-      "model": "item/reserved_item"
-    },
-    {
-      "predicate": {
         "custom_model_data": 1
       },
       "model": "item/icon_miner_slot_1"
