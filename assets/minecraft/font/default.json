@@ -30,7 +30,7 @@
       {
         "type": "bitmap",
         "file": "icons:chat/icon_hunter_00.png",
-        "ascent": -1,
+        "ascent": 0,
         "height": 54,
         "chars": [
           "\uDB81\uDC96"
