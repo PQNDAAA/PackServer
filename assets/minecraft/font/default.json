@@ -29,11 +29,20 @@
       },
       {
         "type": "bitmap",
-        "file": "icons:chat/icon_miner_00.png",
-        "ascent": 16,
-        "height": 16,
+        "file": "icons:chat/icon_hunter_00.png",
+        "ascent": 64,
+        "height": 64,
         "chars": [
           "\uDB81\uDC96"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "icons:chat/icon_lumberjack_00.png",
+        "ascent": 64,
+        "height": 64,
+        "chars": [
+          "\uDB81\uDC94"
         ]
       },
       {
