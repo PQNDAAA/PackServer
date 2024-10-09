@@ -72,6 +72,24 @@
           "\uDB81\uDC93"
         ]
       },
+      {
+        "type": "bitmap",
+        "file": "icons:chat/container_54_infojob.png",
+        "ascent": 13,
+        "height": 256,
+        "chars": [
+          "\uDB81\uDC92"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "icons:chat/left_click_mouse.png",
+        "ascent": 9,
+        "height": 9,
+        "chars": [
+          "\uDB81\uDC91"
+        ]
+      },
         {
          "type": "bitmap",
          "file": "icons:chat/advancement_categories.png",
